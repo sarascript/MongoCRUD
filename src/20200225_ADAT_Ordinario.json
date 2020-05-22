@@ -1,0 +1,18 @@
+[
+	{
+		"nombre": "Estudiantes",
+		"ciudad": "Madrid",
+		"titulos": ["copa", "korac"]
+	},
+	{
+		"nombre": "Real Madrid",
+		"ciudad": "Madrid",
+		"titulos": ["copa", "korac", "liga", "euroliga"]
+	},
+	{
+		"nombre": "Unicaja",
+		"ciudad": "Malaga",
+		"titulos": ["copa", "liga"]
+	}
+]
+
